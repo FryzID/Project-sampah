@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923970285262",
+    "project_id": "project-sampah",
+    "storage_bucket": "project-sampah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923970285262:android:26dcc6da162a75150f2a9f",
+        "android_client_info": {
+          "package_name": "com.fryz.projectsampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923970285262-kmjt9timu59q8qtepu1bm5id3qov8d3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fryz.projectsampah",
+            "certificate_hash": "be144ac876a05d6e34f2ef6dd3082c778c527898"
+          }
+        },
+        {
+          "client_id": "923970285262-v1jnm1ls58hv182pfu0egb3nvu5acb5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjpFzXUmiITLzSyCekN6WCbcEnJ3hNYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923970285262-v1jnm1ls58hv182pfu0egb3nvu5acb5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

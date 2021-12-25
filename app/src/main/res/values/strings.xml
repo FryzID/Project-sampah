@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project sampah</string>
+    <string name="allowed_input_char_name">0123456789qwertzui opasdfghjklyxcvbnmABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="allowed_input_char_email">0123456789qwertzuiopasdfghjklyxcvbnm@-_ABCDEFGHIJKLMNOPQRSTUVWXYZ.</string>
+    <string name="daftar"><u>Daftar disini</u></string>
+    <string name="lupa_password"><u>Lupa Kata Sandi ?</u></string>
+    <string name="facebook_app_id">1234567890</string>
+    <string name="textEmail">Email</string>
+    <string name="textPassword">Password</string>
+    <string name="textLogin">Login</string>
+    <string name="title_activity_admin_maps">AdminMapsActivity</string>
+</resources>
